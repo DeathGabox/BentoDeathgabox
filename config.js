@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Best Music',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://www.youtube.com/playlist?list=PLbwUH3-YtNua3Kl0619N90Xw1QU7gkySK',
 		},
 	],
 
@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'youtube',
 			id: '1',
 			links: [
 				{
-					name: 'RickRollButton',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Ver Mas Tarde',
+					link: 'https://www.youtube.com/playlist?list=WL',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Ver Mas Tarde vLarga',
+					link: 'https://www.youtube.com/playlist?list=PLbwUH3-YtNuZgKZT60-3tjuh6BmtuCDIc',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'ASMR',
+					link: 'https://www.youtube.com/playlist?list=PLbwUH3-YtNubKTStSWLy5iv4j_sLGQKV7',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'ASMR Furry',
+					link: 'https://www.youtube.com/playlist?list=PLbwUH3-YtNubSNM_3OuX6I8v0jXRnpy7h',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Conversor Archivos',
+					link: 'https://www.online-convert.com/es',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'AlternativeTo <3',
+					link: 'https://alternativeto.net/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Drive Personal',
+					link: 'https://drive.google.com/drive/u/0/my-drive',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Drive Duoc',
+					link: 'https://drive.google.com/drive/u/1/my-drive',
 				},
 			],
 		},
