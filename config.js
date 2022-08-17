@@ -12,8 +12,8 @@ const CONFIG = {
 
 	// General
 	name: 'Deathgabox',
-	imageBackground: false,
-	openInNewTab: false,
+	imageBackground: true,
+	openInNewTab: true,
 	twelveHourFormat: true,
 
 	// Greetings
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Trello',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://trello.com/deathgabox/boards',
 		},
 		{
 			id: '4',
@@ -98,7 +98,7 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'twitter',
+			name: 'Twitter',
 			icon: 'twitter',
 			link: 'https://twitter.com/',
 		},
@@ -151,7 +151,7 @@ const CONFIG = {
 					link: 'https://www.youtube.com/playlist?list=PLbwUH3-YtNubKTStSWLy5iv4j_sLGQKV7',
 				},
 				{
-					name: 'ASMR Furry',
+					name: 'ASMR F',
 					link: 'https://www.youtube.com/playlist?list=PLbwUH3-YtNubSNM_3OuX6I8v0jXRnpy7h',
 				},
 			],
@@ -169,12 +169,12 @@ const CONFIG = {
 					link: 'https://alternativeto.net/',
 				},
 				{
-					name: 'Drive Personal',
-					link: 'https://drive.google.com/drive/u/0/my-drive',
+					name: 'Google Drive',
+					link: 'https://drive.google.com/drive/',
 				},
 				{
-					name: 'Drive Duoc',
-					link: 'https://drive.google.com/drive/u/1/my-drive',
+					name: 'Pocket',
+					link: 'https://getpocket.com/es/my-list',
 				},
 			],
 		},
